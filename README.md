@@ -16,11 +16,11 @@ Este projeto é um email marketing desenvolvido para uma campanha de vendas de j
 
 1. Faça o download ou clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/vdavidmarques/email-marketing-talento-joias.git
     ```
 2. Navegue até a pasta do projeto:
     ```sh
-    cd seu-repositorio
+    cd email-marketing-talento-joias
     ```
 3. Abra o arquivo `index.html` em um navegador de sua escolha para visualizar o email.
 
